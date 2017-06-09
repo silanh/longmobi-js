@@ -1,0 +1,22 @@
+     <h2><i class="fa fa-weixin"/> Hỗ trợ trực tuyến</i></h2>
+    <div class="boxhohokythuat">
+    <ul>
+    <li>
+    <div class="info-hotrokt">
+    <p>Kinh doanh 1 - <span>Mr.Long</span></p>
+    <p>Call: 0986.060.540</p>
+    <p>
+    <a class="mar-right" href="skype:nguyenhailong_tng?chat" title="Chát cùng Mr.Long"><img alt="skype" src="http://lh3.googleusercontent.com/-zjBm_8YgSJQ/VkKsKsxel8I/AAAAAAAAAfc/agduX_gZqZM/s1600/skype-icon.png" style="float: left;margin-right: 10px;" /> </a>
+    <a href="https://www.facebook.com/NguyenHaiLongTN" title="Chát cùng Mr.Long"><img alt="facebook" src="http://lh3.googleusercontent.com/-kiGXqjZZOKc/VnVkEk7Z-qI/AAAAAAAAFLM/ZPHZBloDkaI/s1600/fb-icon.png" /> </a>
+    <a href="https://www.facebook.com/NguyenHaiLongTN" title="Chát cùng Mr.Long"><img alt="zalo" src="http://lh3.googleusercontent.com/-8qpIQ_koo4M/VnVkEp4WXUI/AAAAAAAAFLI/sdFcsQJ-Dn0/s1600/zalo-icon.png" /> </a>
+    </p></div></li><style>
+    div.boxhohokythuat {float: left;width: 100%;}
+    div.boxhohokythuat li {list-style: none;float: left;width: 313px;margin-bottom: 15px;}
+    div.boxhohokythuat ul {margin: 0;padding: 0;}
+    div#boxlienhehotrokt {float: left;width: 100%;overflow: hidden;}
+    div.avatar-hotrokt {float: left;width: 110px;overflow: hidden;height: 99px;background: url(https://lh6.googleusercontent.com/-MCIxKaWyDww/U8pYUmTBYVI/AAAAAAAAIl0/TayEC1CaWUk/s0/bg_avatar.png) no-repeat;position: relative;}
+    div.avatar-hotrokt img {float: left;margin-left: 13px;margin-top: 12px;width: 75px;height: 75px;border-radius: 100%;overflow: hidden;}
+    div.info-hotrokt p {font: 13px arial;color: #333;margin: 0;padding: 0;line-height: 22px;
+    }
+    div.info-hotrokt span {color: #f55438;}
+    </style>

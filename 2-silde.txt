@@ -1,0 +1,36 @@
+    <div class='slide-auto'>
+    <div class='slideshow'>
+    <div class='nivoSlider' id='slideshow' style='background: url(&apos;https://lh3.googleusercontent.com/-tl7EFdqn7VQ/WTRE5dUSNAI/AAAAAAAASYE/_u-AzEjt8ushg0dif1NbJ1OGhKru73vJwCLcB/s1600/banner-android-tv-box-1.jpg&apos;) no-repeat; position: relative;'>
+    <a class='nivo-imageLink' href='http://www.longmobi.com/2016/05/dai-ly-tv-box-android-so-1-thai-nguyen.html' >
+    <img alt="android tv box thai nguyen" src='https://lh3.googleusercontent.com/-ou9SlzFwbVk/WTRE5Zx6sGI/AAAAAAAASYA/C1vyRCHUdVMU0c86ajxRYnPcM0DTzBKDgCLcB/s1600/banner-dac-nghe-nhac.jpg' style='width:682px' />
+    </a>
+    <a class='nivo-imageLink' href='http://www.longmobi.com/search/label/dac-nghe-nhac-loslesss' style='display: block;'>
+    <img alt="dac nghe nhac lossless" src='https://lh3.googleusercontent.com/-VHlQxTAfTnI/WTRE5pIacQI/AAAAAAAASYI/o41u3sI4NaM1cdFwdRssRxFsznXR3ptQgCLcB/s1600/banner-kinh-3d.jpg' style='width:682px' />
+    </a>
+    </div>
+    </div>
+    <div class="doi-tac">
+    <div class="col-lg-4 col-md-4 top-right-detail">
+    <div id="policy">
+    <ul>
+    <li class="item_policy first">
+    <i class="fa fa-umbrella"></i>BÁN HÀNG<br /> CHÍNH HÃNG        </li>
+            <li class="item_policy">
+             <i class="fa fa-usd"></i>CAM KẾT <br />GIÁ TỐT        </li>
+                                <li class="item_policy">
+             <i class="fa fa-truck"></i>GIAO HÀNG<br />TOÀN QUỐC        </li>
+                                <li class="item_policy">
+             <i class="fa fa-calendar"></i>DỊCH VỤ <br />HỖ TRỢ 24/7        </li>
+                       <li class="item_policy yahoo-sky last">
+            <p class="bg-hl">
+             Hỗ trợ trực tuyến<br /><span>0986.060.540</span>
+            </p>
+               <a class="skyper" href="skype:nguyenhailong_tng?chat">
+             <img alt="Skyper" src="https://lh3.googleusercontent.com/-Sehjnza-EIU/V9D0uGsWKII/AAAAAAAAGTk/NswlVbQYzbICpRsCL4UmmgdivEt-KC-tgCLcB/s1600/skype.png"/>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+    </div>
+    </div>

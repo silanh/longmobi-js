@@ -1,0 +1,22 @@
+<div class='menuleft'>
+<div class='bg-menuleft'>
+<div class='dropdown-toggle' data-toggle='dropdown' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement'><span>
+<i class="fa fa-align-justify" aria-hidden="true"></i>DANH MỤC SẢN PHẨM </span></div>
+<ul class='menuleft dropdown-menu homecat' role='menu' >
+<li><a href='http://www.longmobi.com/search/label/tv-box-android-thai-nguyen' title='android tv box gia re'><i class="fa fa-angle-right" aria-hidden="true"></i> ANDROID TV BOX</a></li>
+<li><a href='http://www.longmobi.com/search/label/dac-nghe-nhac-loslesss' title='dac nghe nhac lossless'><i class="fa fa-angle-right" aria-hidden="true"></i> DAC NGHE NHẠC LOSSLESS</a></li>
+<li><a href='http://www.longmobi.com/search/label/do-choi-tv-box' title='do choi tv box'><i class="fa fa-angle-right" aria-hidden="true"></i> TAY GAME BLUETOOTH</a></li>
+<li><a class='atop' href='http://www.longmobi.com/search/label/kinh-xem-phim-3d-gia-re'><i class="fa fa-angle-right" aria-hidden="true"></i> KÍNH XEM PHIM 3D</a></li>
+<li><a href='http://www.longmobi.com/search/label/lap-dat-camera-gia-re-thai-nguyen' title='lap dat camera thai nguyen'><i class="fa fa-angle-right" aria-hidden="true"></i> CAMERA IP</a></li>
+<li><a href='http://www.longmobi.com/search/label/dau-thu-kts-dvb-t2' title='dau kts dvb t2 thai nguyen'><i class="fa fa-angle-right" aria-hidden="true"></i> ĐẦU KTX DVB-T2</a></li>
+<li><a href='http://www.longmobi.com/search/label/modem-wifi' title='Thiet bi mang'><i class="fa fa-angle-right" aria-hidden="true"></i> THIẾT BỊ MẠNG</a></li>
+</ul></div></div>
+<div class='menuright'>
+<ul class='mrul'>
+<li class='mrli'><a class='mratop mdrop' href='http://www.longmobi.com/2016/05/dai-ly-tv-box-android-so-1-thai-nguyen.html'>ANDROI TV BOX THÁI NGUYÊN</a></li>
+<li class='mrli'><a class='mratop mdrop' href='http://www.longmobi.com/2016/05/dai-ly-dau-thu-dvb-t2-thai-nguyen.html'>ĐẦU THU KTS</a></li>
+<li class='mrli'><a class='mratop mdrop' href='http://www.longmobi.com/search/label/dac-nghe-nhac-loslesss'>DAC NGHE NHẠC</a></li>
+<li class='mrli'><a class='mratop mdrop' href='http://www.longmobi.com/2016/07/phan-mem-tv-box-android-chuyen-dung.html'>ỨNG DỤNG TV BOX</a></li>
+<li class='mrli'><a class='mratop mdrop' href='http://www.longmobi.com/p/sitemap.html'>Sitemap</a></li>
+</ul>
+</div>

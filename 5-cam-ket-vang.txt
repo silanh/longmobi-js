@@ -1,0 +1,17 @@
+     <div class="box">
+    <div class="right"></div>
+    <div class="top7" style="height:55px;background:none !important">
+    <h4 id="h4-camket">Cam kết vàng</h4>
+    </div>
+    <div class="middle hotroonline" id="bg-camket" style="overflow:hidden;">
+    <ul style="padding:10px">
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">1</span><span style="position:relative; top:-6px; left:5px">Sản phẩm chính hãng</span> </li>
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">2</span><span style="position:relative; top:-6px; left:5px">Bảo hành chính hãng</span> </li>
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">3</span><span style="position:relative; top:-6px; left:5px">Tư vấn tin cậy</span> </li>
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">4</span><span style="position:relative; top:-6px; left:5px">Giá cả cạnh tranh</span> </li>
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">5</span><span style="position:relative; top:-6px; left:5px">Mua sắm dễ dàng</span> </li>
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">6</span><span style="position:relative; top:-6px; left:5px">Phục vụ chu đáo</span> </li>
+    <li style=" list-style: none;padding:5px 0 0 0;position:relative; font-size:15px; cursor:pointer" class="li-commit"><img src="https://3.bp.blogspot.com/-FleKbgv0b6k/V74EEA6yhzI/AAAAAAAAGNo/RzZg4lgF6F0k2qhGMdcRmUWcGbzxYLiAACLcB/s1600/star-commit.png" alt="" class="img-commit" /><span style="position:absolute;top:10px; left:11px; color:#fff; font-weight:bold;">7</span><span style="position:relative; top:-6px; left:5px">Dịch vụ hoàn hảo</span> </li>
+    </ul>
+    </div>
+    </div>

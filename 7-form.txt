@@ -1,0 +1,77 @@
+Họ và tên: entry.118759323
+Địa chỉ giao hàng: entry.1395354667
+Số điện thoại:entry.2105927604
+Email:entry.425976131
+Sản phẩm cần mua: entry.1354071975
+Thông tin về đơn hàng:entry.2123397543
+Ghi chú: entry.329332486
+
+
+
+<div class="separator" style="background: #fff; clear: both; padding: 10px 0; text-align: center;">
+<img src="https://3.bp.blogspot.com/-GtRzZhoIIc4/V2-AqH9ELlI/AAAAAAAAFKI/i99yz4OpmqQh7M2P-e9B5HVNmrndW7QTwCLcB/s1600/cac%2Bbuoc%2Bthanh%2Btoan.png" /></div>
+<form action="https://docs.google.com/forms/d/18Qh3wurhsa1GCcR0yfEH-bv1Is1B45dNEd1iuaM0WhU/formResponse" class="white-pink" id="ss-form" method="POST" onsubmit="" target="_self">
+<div class="content-muangay">
+<div class="left-muangay">
+<div class="clear">
+</div>
+<div class="callout radius box_gio_hang">
+<h3>
+Thông tin giỏ hàng của bạn</h3>
+<div class="simpleCart_items">
+</div>
+<ul class="pricing-table">
+<li class="price"><span class="simpleCart_finalTotal" style="color: red;"></span>
+</li>
+</ul>
+</div>
+<textarea aria-label="Thông Tin SP " class="ss-q-long valid" cols="0" dir="auto" id="entry_1354071975" name="entry.1354071975" rows="8"></textarea>
+</div>
+<div class="checkout">
+<h3>
+Thông tin giao hàng</h3>
+<div class="node">
+*** Nhập chính xác thông tin để chúng tôi thuận tiện khi giao hàng cho bạn!</div>
+<table cellpadding="0" cellspacing="0" class="muangay" style="width: 100%;"><tbody>
+<tr> <td colspan="2">
+<label for="entry_118759323">
+<input aria-label="Họ và tên" aria-required="true" class="ss-q-short" dir="auto" id="entry.118759323" name="entry.118759323" placeholder="Tên đầy đủ của bạn (*)" required="" title="" type="text" value="" /> </label></td> </tr>
+<tr> <td colspan="2">
+<div class="node">
+* Địa chỉ nhận hàng</div>
+<label for="entry_1395354667">
+<input aria-label="Số nhà, đường, phường/xã/quận… (*)" aria-required="true" class="ss-q-short" dir="auto" id="entry_1395354667" name="entry.1395354667" placeholder="Số nhà, đường, (tòa nhà), phường/xã… (*)" required="" title="" type="text" value="" /> </label></td></tr>
+<tr> <td colspan="2">
+<label for="entry_2105927604">
+<input aria-label="Số điện thoại (*)" aria-required="true" class="ss-q-short" dir="auto" id="entry_2105927604" name="entry.2105927604" placeholder="Số điện thoại (*)" required="" title="" type="text" value="" /> </label></td> </tr>
+<tr> <td colspan="2">
+<label for="entry_425976131">
+<input aria-label="Email (*)" aria-required="true" class="ss-q-short" dir="auto" id="entry_425976131" name="entry.425976131" placeholder="Email (*)" required="" title="" type="text" value="" /> </label></td> </tr>
+<tr> <td colspan="2">
+* Thông tin về đơn hàng
+<label for="entry_2123397543">
+<textarea aria-label="Thông Tin SP " class="ss-q-long valid" cols="0" dir="auto" id="entry_2123397543" name="entry.2123397543" rows="6"></textarea>
+</label></td> </tr>
+<tr> <td colspan="2">
+<div class="node">
+* Ghi chú</div>
+<label for="entry_329332486">
+<textarea aria-label="Ghi chú" class="ss-q-long" cols="0" dir="auto" id="entry_1778689393" name="entry.329332486" placeholder="Giao cho tôi vào giờ hành chính." rows="8"></textarea>
+</label></td> </tr>
+<tr> <td colspan="2">
+<label><input class="button" id="ss-submit" name="submit" type="submit" value="Đặt hàng" /> </label></td> </tr>
+</tbody> </table>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+var submitted = false;
+function emptycart() {
+submitted = true;
+$('.blockform').toggle();
+$('.hidden-message').show();
+}
+$("iframe#hidden_iframe").on('load', function() {
+simpleCart.empty();
+});
+</script>
